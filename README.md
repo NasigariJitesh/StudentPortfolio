@@ -1,5 +1,5 @@
 
-<h1 align="center"> Software Developer Student Portfolio 🔥 </h1> 
+<h1 align="center"> Student Developer Portfolio 🔥 </h1> 
 <h3 align="center"> An Elegant, responsive and 100% customizable portfolio <br /> template for Student Developers! </h3>
 
 <p align="center"> 
