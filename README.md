@@ -72,7 +72,7 @@ You can change the personal information, experience, education, social media, ce
 
 ### Github Information
 
-You will find `git_data_fetcher.js` file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
+You will find `git_data_fetcher.js` file in the main directory of the repository. This file is used to fetch the data (Organizations, Pinned projects etc.) from your github.
 If you open the file, you will see below component at the top of the file. You need to change only that component.
 
 ```python
