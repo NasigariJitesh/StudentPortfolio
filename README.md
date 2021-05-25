@@ -1,13 +1,10 @@
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
 
 <h1 align="center"> Software Developer Student Portfolio 🔥 </h1> 
-<h3 align="center"> An ELegant, responsive and 100% customizable portfolio <br /> template for Student Developers! </h3>
+<h3 align="center"> An Elegant, responsive and 100% customizable portfolio <br /> template for Student Developers! </h3>
 
 <p align="center"> 
     <a href="https://nasigarijitesh.me/" target="_blank">
-    <img src="images/studentportfolio.png"></img>
+    <img src="images/Studentportfolio.png"></img>
   </a>
 </p>
 
