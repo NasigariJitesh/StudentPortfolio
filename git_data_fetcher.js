@@ -1,6 +1,6 @@
 const openSource = {
-  githubConvertedToken: "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",
-  githubUserName: "NasigariJitesh",
+  githubConvertedToken: "you key here",
+  githubUserName: "uor username here",
 };
 
 const fetch = require("node-fetch");
