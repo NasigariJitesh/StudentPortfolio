@@ -1,0 +1,96 @@
+.main {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 0px auto;
+  margin-top: 4rem;
+}
+.intro-main {
+  width: 90%;
+  padding: 20px 10px;
+  margin: 0px auto;
+  margin-top: 2rem;
+}
+
+.introduction-main {
+  width: 100%;
+  padding: 20px 10px;
+  margin: 0px auto;
+}
+
+.introduction-main {
+  display: flex;
+}
+
+.introduction-main > * {
+  flex: 1;
+  margin-bottom: 30px;
+}
+.button-introduction-div {
+  display: flex;
+  margin-top: 20px;
+}
+
+.introduction-text {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: left;
+  margin-top: 80px;
+  font-size: 70px;
+  line-height: 1.1;
+  font-family: "Google Sans Bold";
+}
+
+.introduction-text-p {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 40px;
+  text-align: left;
+  line-height: 40px;
+  font-family: "Google Sans Medium";
+}
+
+.introduction-image-div > * {
+  max-width: 100%;
+  height: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  justify-content: center;
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .introduction-text {
+    font-size: 50px;
+  }
+  .introduction-text-p {
+    font-size: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .button-introduction-div {
+    justify-content: space-around;
+  }
+  .introduction-text {
+    font-size: 30px;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .introduction-nickname {
+    font-size: 25px;
+    text-align: center;
+  }
+  .introduction-text-p {
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+  }
+  .introduction-main {
+    display: block;
+  }
+
+  .portfolio-repo-btn-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "description": "",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": []
+    },
+    {
+      "title": "Internships",
+      "experiences": []
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": []
+    }
+  ],
+  "subtitle": "Work, Internship and Volunteership",
+  "title": "Experience"
+}
